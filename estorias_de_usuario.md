@@ -14,11 +14,14 @@ Como usuário quero poder tranferir dinheiro direto da plataforma, seja para um 
 Como usuário quero relatórios e graficos, dos meu gastos, pada poder saber se estou gastando mais do que deveria, e isso de forma visual
 
 _Gian_
-[US005]
-EXEMPLO -> Como usuário quero poder escolher entre o tigrinho ou a cobrinha, as vezes o tigre não ta pagando.
-[US006]
-[US007]
-[US008]
+[US005][M]
+Como usuário quero poder escolher entre os diferentes jogos, as vezes não estou com sorteem um específico.
+[US006][C]
+Como usuário quero poder apostar com dinheiro ou com ações de empresas.
+[US007][S]
+Como usuário quero poder escolher entre pelo menos 3 diferentes jogos.
+[US008][S]
+Como usuário quero poder comprar um pacote por um valor determinado e ganhar umas ação aleatória entre as empresas do pacote.
 
 _Paulo_
 [US009]
