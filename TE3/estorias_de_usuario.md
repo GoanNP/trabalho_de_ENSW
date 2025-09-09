@@ -12,7 +12,7 @@ Como usuário quero relatórios e graficos, dos meu gastos, pada poder saber se 
 
 _Gian_
 [US005]
-Como usuário quero poder escolher entre o tigrinho ou a cobrinha, as vezes o tigre não ta pagando.
+Como usuário quero poder escolher entre os diferentes jogos, as vezes não estou com sorte em um específico.
 [US006]
 Como usuário quero definir limites de aposta diários e semanais para controlar meus gastos e jogar de forma responsável.
 [US007]
